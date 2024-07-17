@@ -1,7 +1,15 @@
 ## Hi there 👋 
 
 Welcome to Burnt Toaster!
-We are a few developer who bunched together for the [pirate jam 15](https://itch.io/jam/pirate)
+We are a few developer who bunched together for the [Pirate Jam 15](https://itch.io/jam/pirate)
+
+All hail Thor, patron saint of indie game devs.
+We are not a cult.
+
+# Key links
+**[Status Board](https://github.com/orgs/BurntToaster-Pirate15/projects/1/views/2)**
+
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -13,4 +21,5 @@ We are a few developer who bunched together for the [pirate jam 15](https://itch
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+# The Team
 Name_Core
