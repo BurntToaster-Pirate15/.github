@@ -1,5 +1,3 @@
-# Burnt toaster
-
 ## Hi there 👋 
 
 Welcome to Burnt Toaster!
