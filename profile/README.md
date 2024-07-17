@@ -1,4 +1,6 @@
-## Hi there 👋
+# Burnt toaster
+
+## Hi there 👋 
 
 Welcome to Burnt Toaster!
 We are a few developer who bunched together for the [pirate jam 15](https://itch.io/jam/pirate)
