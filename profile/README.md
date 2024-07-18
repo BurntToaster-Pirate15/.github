@@ -9,7 +9,9 @@ We are not a cult.
 # Key links
 [Prometheus](https://github.com/BurntToaster-Pirate15/Project-Prometheus)
 
+
 [Game Design Document](https://github.com/BurntToaster-Pirate15/Project-Prometheus/blob/main/GDD.md)
+
 
 [Status Board](https://github.com/orgs/BurntToaster-Pirate15/projects/1/views/2)
 
@@ -27,3 +29,4 @@ We are not a cult.
 
 # The Team
 Name_Core
+@nimoooos
